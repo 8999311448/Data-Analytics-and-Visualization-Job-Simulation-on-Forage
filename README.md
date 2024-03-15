@@ -18,3 +18,4 @@ To participate in the simulation, ensure you have access to the Forage platform 
 
 ## Author
 - Sakshi Sharma
+- https://www.linkedin.com/in/sakshi-sharma-a705a7214/
